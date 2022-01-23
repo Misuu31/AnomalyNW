@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Anomaly NW
+serverDescription: Anomaly Network ile eğlenceye dal!
+serverIP: AnomalyNW.gamenameçnet
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/6WAq3bgQZ8
+discordServerID: 915940246846316566
+discordChannelID: 915950563655569428
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
